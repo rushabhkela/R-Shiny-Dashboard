@@ -163,7 +163,7 @@ Project Link: [https://github.com/rushabhkela/R-Shiny-Dashboard](https://github.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Dataset Repository](https://choosealicense.com)
+* [Dataset Repository](https://github.com/laxmimerit/Covid-19-Preprocessed-Dataset)
 * [ShinyApps.io](https://www.shinyapps.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
